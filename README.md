@@ -1,20 +1,25 @@
 # OCT Early Warning System (OCT-EWS)
 
-An embedding-based post-classification safety layer for identifying
-unsafe normal predictions in automated OCT screening.
+A representation-space early warning system for identifying unsafe
+normal predictions in automated OCT screening using embedding-space
+geometry.
 
-> **Note:** This is a temporary public repository created to support
-> the arXiv submission and peer review process. It contains selected
-> configuration files and documentation only. The complete
-> implementation including all source modules, notebooks, and test
-> suite is currently under review and will be made fully public upon
-> journal publication at:
-> github.com/Ajantha-Wira/OCT-EWS
+> **Note:**
+> This repository accompanies the research preprint and
+> provides a structured overview of the Early Warning System (EWS)
+> framework. It includes selected configuration details and documentation.
+> The full implementation, including source modules, notebooks,
+> and test suite, is maintained in a private repository and will be
+> released in a future public version at: github.com/Ajantha-Wira/OCT-EWS
+
 
 ## Overview
 
-This repository contains the full implementation of the OCT Early 
-Warning System (EWS) framework introduced in:
+This repository presents the Early Warning System (EWS),
+a post-classification safety framework designed to detect structurally
+atypical normal predictions in deep learning-based OCT screening.
+
+The work is introduced in:
 
 > Wirasinghe, A. (2026) *An Embedding-Based Post-Classification Safety 
 > Layer for Identifying Unsafe Normal Predictions in OCT Screening*. 
