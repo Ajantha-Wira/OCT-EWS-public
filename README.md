@@ -43,7 +43,8 @@ The full implementation includes modules for:
 - disease-direction analysis
 - reporting and monitoring
 
-The structure below reflects the full implementation architecture (private repository).
+The structure below outlines the full system architecture, including modules currently maintained in a private repository.
+
 ```
 OCT_EWS/
 ├── config/          # Phase configuration and defaults
