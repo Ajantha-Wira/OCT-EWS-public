@@ -1,6 +1,6 @@
 # OCT Early Warning System (OCT-EWS)
 
-A representation-space early warning system for detecting unsafe normal predictions in automated OCT screening using embedding-space geometry.
+A representation-space early warning system for detecting unsafe normal predictions in automated OCT screening using embedding-space geometry. This work forms the foundational framework for subsequent research on representation-space safety and distance-based modelling in medical AI.
 
 
 > **Note:**
@@ -14,12 +14,11 @@ A representation-space early warning system for detecting unsafe normal predicti
 
 ## Overview
 
-This repository presents the Early Warning System (EWS), a post-classification safety framework for detecting structurally atypical normal predictions in deep learning-based OCT screening.
-This work forms the foundational framework for subsequent research on representation-space safety and distance-based modelling in medical AI.
+This repository presents the Early Warning System (EWS), a post-classification safety framework for detecting structurally atypical normal predictions in deep learning-based OCT screening. This work forms the foundational framework for subsequent research on representation-space safety and distance-based modelling in medical AI.
 
 The work is introduced in:
 
-> Wirasinghe, A. (2026)  
+> Wirasinghe, A. I. (2026)  
 > *An Embedding-Based Post-Classification Safety Layer for Detecting Unsafe Normal Predictions in OCT Screening*  
 > [Zenodo DOI – to be updated]
 
@@ -44,8 +43,7 @@ The full implementation includes modules for:
 - disease-direction analysis
 - reporting and monitoring
 
-The complete source code is maintained in a private repository and will be released in a future version.
-
+The structure below reflects the full implementation architecture (private repository).
 ```
 OCT_EWS/
 ├── config/          # Phase configuration and defaults
@@ -61,6 +59,8 @@ OCT_EWS/
 ├── tests/           # Test suite
 └── main.py
 ```
+The structure below reflects the full implementation architecture (private repository).
+
 ## Requirements
 
 - Python 3.10
@@ -93,19 +93,19 @@ Wirasinghe, A. I. (2026)
 *An Embedding-Based Post-Classification Safety Layer for Detecting Unsafe Normal Predictions in OCT Screening*
 [Zenodo DOI]
 
-## Licence
+## License
 
-MIT Licence. See LICENSE for details.
+MIT License.
 
 ## Author
 
-Ajantha Wirasinghe  
+Wirasinghe, A. I. (2026)
 MSc Computer Science with AI, Keele University  
 github.com/Ajantha-Wira
 
 ## Preprint and DOI
 
-This work is available as a citable preprint:
+This work is available as a citable preprint with a persistent DOI:
 
 [Zenodo DOI – to be updated]
 
