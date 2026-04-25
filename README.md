@@ -107,6 +107,6 @@ github.com/Ajantha-Wira
 
 This work is available as a citable preprint with a persistent DOI:
 
-[Zenodo DOI – to be updated]
+https://doi.org/10.5281/zenodo.19748474
 
 A versioned release is maintained via Zenodo for reproducibility and timestamping.
