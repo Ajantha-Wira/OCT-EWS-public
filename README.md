@@ -20,7 +20,7 @@ The work is introduced in:
 
 > Wirasinghe, A. I. (2026)  
 > *An Embedding-Based Post-Classification Safety Layer for Detecting Unsafe Normal Predictions in OCT Screening*  
-> [Zenodo DOI – to be updated]
+> https://doi.org/10.5281/zenodo.19748474
 
 Unlike conventional uncertainty methods that rely on softmax confidence, the EWS operates in representation space, analysing embedding geometry to identify predictions that may be unsafe to accept automatically.
 
@@ -90,9 +90,8 @@ Details on leakage-corrected preprocessing are provided in the paper.
 
 If you use this work, please cite:
 
-Wirasinghe, A. I. (2026)
-*An Embedding-Based Post-Classification Safety Layer for Detecting Unsafe Normal Predictions in OCT Screening*
-[Zenodo DOI]
+
+Wirasinghe, A.I. (2026) “An Embedding-Based Post-Classification Safety Layer for Detecting Unsafe Normal Predictions in OCT Screening”. Zenodo. doi:10.5281/zenodo.19748474.
 
 ## License
 
