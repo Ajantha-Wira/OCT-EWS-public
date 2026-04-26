@@ -97,12 +97,12 @@ Details on leakage-corrected preprocessing are provided in the papers.
 ## Citation
 If you use this work, please cite the relevant paper(s):
 
-**Paper 1:**
+- **Paper 1:**
 Wirasinghe, A.I. (2026) "An Embedding-Based Post-Classification Safety 
 Layer for Detecting Unsafe Normal Predictions in OCT Screening". 
 Zenodo. doi:10.5281/zenodo.19748474.
 
-**Paper 2:**
+- **Paper 2:**
 Wirasinghe, A.I. (2026) "Distance Metrics for Representation-Space 
 Safety: A Mahalanobis-Based Analysis for Detecting Structurally Atypical 
 Normal Predictions in OCT Screening". 
