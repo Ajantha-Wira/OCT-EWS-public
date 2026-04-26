@@ -122,5 +122,5 @@ Both papers are available as citable preprints with persistent DOIs
 via Zenodo. Versioned releases are maintained for reproducibility 
 and timestamping.
 
-Paper 1: https://doi.org/10.5281/zenodo.19748474
-Paper 2: https://doi.org/10.5281/zenodo.19775566
+- Paper 1: https://doi.org/10.5281/zenodo.19748474
+- Paper 2: https://doi.org/10.5281/zenodo.19775566
